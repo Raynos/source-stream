@@ -1,0 +1,31 @@
+{
+  "name": "source-stream",
+  "version": "0.0.1",
+  "description": "A inverted stream that handles source",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/source-stream.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/source-stream",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/source-stream/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/source-stream/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {
+  }
+}
