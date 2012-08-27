@@ -1,6 +1,6 @@
 {
   "name": "source-stream",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A inverted stream that handles source",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
